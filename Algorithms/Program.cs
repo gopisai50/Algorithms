@@ -41,7 +41,7 @@ namespace Algorithms
                 int n = (a[i + 1] - a[i]) - 1;
                 if (n > 1)
                 {
-                    max = findMax(a[i] - 1, a[i + 1] - 1, a, b, dum, n);
+                    max = findMax(a[i] - 1, a[i + 1] - 1, dum);
 
                 }
 
@@ -49,15 +49,10 @@ namespace Algorithms
             Console.WriteLine(max);
             Console.ReadKey();
         }
-        public static int findMax(int i, int j, int[] a, int[] b, int[] dum, int n)
+        public static int findMax(int i, int j,  int[] dum)
         {
             int max = 0;
 
-            if (n == 1)
-            {
-                dum[j - 1] = smallest(dum[i], dum[j]) + 1;
-                return dum[j - 1];
-            }
 
             int temp = i;
 
