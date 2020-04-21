@@ -55,6 +55,7 @@
     <Compile Include="Permuting Two Arrays.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Red John is Back.cs" />
     <Compile Include="Stock Maximize.cs" />
     <Compile Include="Taum and B%27day.cs" />
   </ItemGroup>

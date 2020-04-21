@@ -9,7 +9,7 @@ namespace Algorithms
     class Kadane_s_Algorithm
     {
 
-        public static void Main(string[] args)
+        public static void main(string[] args)
         {
             int[] a = { -2, -3, 4, -3, 10, 1, 5, -3 };
             Console.Write("Maximum contiguous sum is " +
