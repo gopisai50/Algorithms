@@ -8,7 +8,7 @@ namespace Algorithms
 {
     class Program
     {
-        static void Main(string[] args)
+        static void main(string[] args)
         {
 
             //int[] a  = { 1,3,7 };
