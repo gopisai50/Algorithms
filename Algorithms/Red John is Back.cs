@@ -9,7 +9,7 @@ namespace Algorithms
     class Red_John_is_Back  //Sieve of Eratosthenes for Primes
     {
 
-        public static void Main(string[] args)
+        public static void main(string[] args)
         {
             redJohn(7);
         }
