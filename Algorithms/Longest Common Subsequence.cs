@@ -9,7 +9,7 @@ namespace Algorithms
     class Longest_Common_Subsequence
     {
 
-        public static void Main(string[] args)
+        public static void main(string[] args)
         {
             commonChild("abcdefghij","ecdgi");
         }
