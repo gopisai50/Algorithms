@@ -38,7 +38,7 @@ namespace Algorithms
             #region pointers
             //foreach (DictionaryEntry kp in ht)
             //{
-            //    if(j==0)
+            //    if (j == 0)
             //    {
             //        arr[j] = (int)kp.Value;
             //        j++;
@@ -49,12 +49,12 @@ namespace Algorithms
             //        {
             //            min++;
             //            arr[j] = (int)kp.Value;
-            //                }
+            //        }
             //        else
             //        {
 
-            //            mes+= Math.Abs(arr[min] - (int)kp.Value);
-            //            if(min==0)
+            //            mes += Math.Abs(arr[min] - (int)kp.Value);
+            //            if (min == 0)
             //            {
             //                min++;
             //            }

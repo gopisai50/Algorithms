@@ -9,7 +9,7 @@ namespace Algorithms
     class Product_Distribution
     {
 
-        public static void Main(string[] args)
+        public static void main(string[] args)
         {
             List<List<int>> li = new List<List<int>>();
             li.Add(new List<int> { 0, 4 });

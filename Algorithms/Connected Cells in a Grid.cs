@@ -17,7 +17,7 @@ namespace Algorithms
             a[2] = new int[4] { 0, 0, 1, 0 };
             a[3] = new int[4] { 1, 0, 0, 0 };
 
-            connectedCell(a, 4, 4);
+           var c = connectedCell(a, 4, 4);
 
 
 
