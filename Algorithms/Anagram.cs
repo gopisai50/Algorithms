@@ -6,7 +6,7 @@ namespace Algorithms
     class Anagram
     {
 
-        public static void Main(string[] args)
+        public static void main(string[] args)
         {
            Console.Write(reverse("I am Gopi"));
 

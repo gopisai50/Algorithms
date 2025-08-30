@@ -75,7 +75,9 @@
     <Compile Include="Kadane’s Algorithm.cs" />
     <Compile Include="Longest Common Subsequence.cs" />
     <Compile Include="LongestConsequtiveSequence.cs" />
+    <Compile Include="LongestOnes.cs" />
     <Compile Include="Maximal Char Requests.cs" />
+    <Compile Include="MinimumSizeSubArraySum.cs" />
     <Compile Include="MinimunSwaps.cs" />
     <Compile Include="Permuting Two Arrays.cs" />
     <Compile Include="Product Distribution.cs" />
